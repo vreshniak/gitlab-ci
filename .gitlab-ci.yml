@@ -1,3 +1,0 @@
-always-run:
-  script:
-    echo "Hello, world"
